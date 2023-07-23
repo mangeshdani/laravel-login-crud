@@ -8,7 +8,7 @@
         <thead>
             <tr>
                 <th>No</th>
-                <th>Name</th>
+                <th>Product Name</th>
                 <th>Details</th>
                 <th width="280px">Action</th>
             </tr>
